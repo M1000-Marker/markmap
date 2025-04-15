@@ -1,0 +1,18 @@
+# Mapa Mental - Lógica de Semáforo (Rua A e Rua B)
+
+## 1. Início do Ciclo
+- *Rua A:* Verde (7 segundos)
+- *Rua B:* Vermelho (7 segundos)
+
+## 2. Aviso de Troca
+- *Ambas as ruas:* Amarelo (4 segundos)
+
+## 3. Troca
+- *Rua A:* Vermelho (7 segundos)
+- *Rua B:* Verde (7 segundos)
+
+## 4. Aviso de Troca
+- *Ambas as ruas:* Amarelo (4 segundos)
+
+## 5. Retorno ao Início
+- Repetição do ciclo a partir do passo 1
